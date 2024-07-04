@@ -1,9 +1,9 @@
 // PROPIEDADES EN ALQUILER
 const propiedades_alquiler = [
     {
-        nombre: 'Casa Acogedora en Barrio Tranquilo en La Serena',
+        nombre: 'Casa Acogedora en La Serena',
         src: './assets/img/prop_alquiler1.jpg',
-        descripcion: 'Esta encantadora casa ofrece un espacio acogedor con un diseño rústico-moderno. Rodeada de vegetación, cuenta con un pequeño jardín ideal para disfrutar de la naturaleza. Perfecta para familias que buscan tranquilidad y seguridad.',
+        descripcion: 'Esta encantadora casa ofrece un espacio acogedor con un diseño rústico-moderno. Rodeada de vegetación, cuenta con un pequeño jardín ideal para disfrutar de la naturaleza.',
         ubicacion: 'Calle Tranquila 123, Barrio Sereno',
         habitaciones: 5,
         baños: 3,
@@ -25,7 +25,7 @@ const propiedades_alquiler = [
     {
         nombre: 'Apartamento de lujo Frente a la Playa',
         src: './assets/img/prop_alquiler3.jpg',
-        descripcion: 'Apartamento con una ubicación privilegiada frente a la playa. Ofrece acceso a dos piscinas y un ambiente perfecto para disfrutar del mar y el sol.',
+        descripcion: 'Apartamento con una ubicación privilegiada frente a la playa. Ofrece acceso a dos piscinas, un ambiente juvenil para aquellos que quieran disfrutar del mar y el sol.',
         ubicacion: 'Paseo Marítimo 789, Playa Central',
         habitaciones: 3,
         baños: 2,
@@ -49,7 +49,7 @@ const propiedades_alquiler = [
 // PROPIEDADES EN VENTA
 const propiedades_venta = [
     {
-        nombre: 'Increible Penthouse en lujoso sector cerca de la playa',
+        nombre: 'Increible Penthouse en lujoso sector playa',
         src: './assets/img/prop_venta1.jpg',
         descripcion: 'Exclusivo penthouse en el corazón de un exclusivo sector con vistas panorámicas y acabados de lujo. Cuenta con un amplio balcón y acceso a servicios premium en el edificio.',
         ubicacion: 'Av. Central 234, Ciudad Capital',
@@ -62,7 +62,7 @@ const propiedades_venta = [
     {
         nombre: 'Apartamento tranquilo frente a la costa',
         src: './assets/img/prop_venta2.jpg',
-        descripcion: 'Ofrece una increíble vista al mar, permitiéndote disfrutar de espectaculares amaneceres y atardeceres desde la comodidad de tu hogar. Este apartamento es ideal para quienes buscan un refugio tranquilo con el sonido relajante de las olas y el aire fresco del mar.',
+        descripcion: 'Ofrece una increíble vista al mar, permitiéndote disfrutar de espectaculares amaneceres, atardeceres, el sonido de las olas desde la comodidad y tranquilidad de tu hogar.',
         ubicacion: 'Calle Marítima 123, Playa Tranquila',
         habitaciones: 2,
         baños: 1,
